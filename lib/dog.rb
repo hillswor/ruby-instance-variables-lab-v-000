@@ -19,3 +19,4 @@ class Person
     @name
   end
 end
+binding.pry
