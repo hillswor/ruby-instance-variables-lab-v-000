@@ -9,3 +9,13 @@ class Dog
     @this_dogs_name
   end
 end
+
+class Person
+  def initialize(name)
+    @name = name
+  end
+
+  def name
+    @name
+  end
+end
